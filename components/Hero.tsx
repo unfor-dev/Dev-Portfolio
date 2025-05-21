@@ -10,13 +10,14 @@ const Hero = () => {
       <div>
         <Spotlight
           className="-top-40 -left-10 md:-left-32 md:-top-20 h-screen"
-          fill="white"
+          fill="red"
         />
         <Spotlight
           className="h-[80vh] w-[50vw] top-10 left-full"
-          fill="purple"
+          fill="yellow"
         />
         <Spotlight className="left-80 top-28 h-[80vh] w-[50vw]" fill="blue" />
+        <Spotlight className="left-80 top-8 h-[80vh] w-[80vw]" fill="pink" />
       </div>
 
       <div
@@ -44,7 +45,7 @@ const Hero = () => {
             Hi! I&apos;m Unfor, a Creative Developer based in UZB.
           </p>
 
-          <a href="#about">
+          <a href="#">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
