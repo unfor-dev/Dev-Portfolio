@@ -107,32 +107,32 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Collaborating with Unfor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Unfor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Unfor is the ideal partner.",
+    name: "Unfor Unfor",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Collaborating with Unfor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Unfor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Unfor is the ideal partner.",
+    name: "Unfor Unfor",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Collaborating with Unfor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Unfor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Unfor is the ideal partner.",
+    name: "Unfor Unfor",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Collaborating with Unfor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Unfor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Unfor is the ideal partner.",
+    name: "Unfor Unfor",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Collaborating with Unfor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Unfor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Unfor is the ideal partner.",
+    name: "Unfor Unfor",
     title: "Director of AlphaStream Technologies",
   },
 ];
@@ -180,14 +180,14 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
+    title: "Freelance Dev Project",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
